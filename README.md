@@ -1,2 +1,2 @@
 # Websites
-websites design repo
+websites design repository
